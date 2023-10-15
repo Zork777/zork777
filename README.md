@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Evgenii!</a> 
-<h3 align="center">I'm a QA engineer</h3>
+<h3 align="left">I'm a QA engineer.</h3>
+<h4> <a href="https://github.com/Zork777/zork777/blob/main/resource/CV_QA_Zakharov.pdf"> My CV. Резюме </a></h4>
 
 ## languages
 <div id="badgesContact">
